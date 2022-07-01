@@ -1,2 +1,3 @@
 To pierwsza linijka
 Tę linijke dodałem w hubie by potem zrobić git pul origin z_samsunga1
+Potem dodaje te linię lokalnie i wypchnę do huba.
