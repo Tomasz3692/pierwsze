@@ -24,7 +24,7 @@ stocks = {
     'TEN': {'Ten Square Games': 301}
 }
 
-print(stocks.get('PLW')) = text.split(' ')
+
 print(stocks['PLW'])
 
 #%%
@@ -117,6 +117,7 @@ for i in names:
 list1 = [1, 2, 0]
 list2 = [4, 5, 6, 1]
 
-
+list3 = list1 + list2
+print(list3)
 
 
